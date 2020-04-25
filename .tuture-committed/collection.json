@@ -3305,8 +3305,8 @@
     {
       "name": "origin",
       "refs": {
-        "fetch": "git@github.com:Bluestar123/tuture.git",
-        "push": "git@github.com:Bluestar123/tuture.git"
+        "fetch": "git@github.com:pftom/tuture-test.git",
+        "push": "git@github.com:pftom/tuture-test.git"
       }
     }
   ],
